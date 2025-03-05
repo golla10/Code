@@ -1,0 +1,19 @@
+ALGORITHM:
+
+3) Write a program that uses the sizeof operator to print the size of various data types like int, float, double, char, short, and long.
+
+*Start the program.
+
+Print the size of an int data type.
+
+Print the size of a float data type.
+
+Print the size of a double data type.
+
+Print the size of a char data type.
+
+Print the size of a short data type.
+
+Print the size of a long data type.
+
+End the program.

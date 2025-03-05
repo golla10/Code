@@ -1,0 +1,14 @@
+11) Write a C program to check whether a given number is even or odd using bitwise operators.
+
+
+*Input: Read the integer number.
+
+*Check the least significant bit:
+
+*Use the bitwise AND operator (&) to check the least significant bit of the number.
+
+If the result is 1 (i.e., number & 1 == 1), the number is odd.
+
+*Otherwise, the number is even.
+
+*Output: Display whether the number is even or odd.

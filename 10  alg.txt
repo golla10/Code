@@ -1,0 +1,22 @@
+10)Write a C program to swap two numbers without using a temporary variable.
+
+
+
+
+*Start the program.
+
+*Declare two integer variables.
+
+*Read the values of the two integers from the user.
+
+*Swap the values of the two integers without using a temporary variable:
+
+Step 4.1: a = a + b
+
+Step 4.2: b = a - b
+
+Step 4.3: a = a - b
+
+*Print the swapped values of the two integers to the console.
+
+*End the program.

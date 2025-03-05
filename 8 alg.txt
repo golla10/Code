@@ -1,0 +1,21 @@
+8)Write a C program that takes two integers as input and swaps their values without using a third variable.
+
+
+
+*Start the program.
+
+*Declare two integer variables.
+
+*Read the values of the two integers from the user.
+
+*Swap the values of the two integers without using a third variable:
+
+Step 4.1: a = a + b
+
+Step 4.2: b = a - b
+
+Step 4.3: a = a - b
+
+*Print the swapped values of the two integers to the console.
+
+*End the program.

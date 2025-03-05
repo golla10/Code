@@ -1,0 +1,18 @@
+13) Write a C program to count the number of set bits (1s) in the binary representation of a given integer.
+
+
+
+
+*Input: Read the integer number.
+
+*Initialize a counter: Set a counter to 0 to keep track of the number of set bits.
+
+*Repeat until the number becomes 0:
+
+*Check the least significant bit (use the bitwise AND operator to check if it is 1).
+
+*If the least significant bit is 1, increment the counter.
+
+*Right shift the number by 1 bit to check the next bit.
+
+*Output: Display the counter, which represents the number of set bits.

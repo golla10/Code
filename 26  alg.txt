@@ -1,0 +1,14 @@
+26) Write a C program to find the length of an array
+
+
+*Input: Read the array size and the array elements.
+
+*Calculate the length of the array:
+
+Use the sizeof operator to get the total size of the array in bytes.
+
+Use the sizeof operator to get the size of one element of the array in bytes.
+
+Divide the total size by the size of one element to get the number of elements in the array.
+
+*Output: Display the length of the array.

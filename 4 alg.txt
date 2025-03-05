@@ -1,0 +1,21 @@
+4)Write a program that takes two unsigned int variables, performs bitwise AND, OR, and XOR operations on them, and prints the results.
+
+*Start the program.
+
+*Declare two unsigned integer variables.
+
+*Read the values of the two unsigned integer variables from the user.
+
+*Perform the bitwise AND operation on the two variables and store the result.
+
+*Perform the bitwise OR operation on the two variables and store the result.
+
+*Perform the bitwise XOR operation on the two variables and store the result.
+
+*Print the result of the bitwise AND operation.
+
+*Print the result of the bitwise OR operation.
+
+*Print the result of the bitwise XOR operation.
+
+*End the program.

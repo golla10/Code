@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main() {
+    int num1, num2;
+
+    
+    printf("Enter two integers: ");
+    scanf("%d %d", &num1, &num2);
+
+    // Performing bitwise AND, OR, and XOR operations
+    int and_result = num1 & num2;
+    int or_result = num1 | num2;
+    int xor_result = num1 ^ num2;
+
+    
+    printf("Bitwise AND (num1 & num2): %d\n", and_result);
+    printf("Bitwise OR (num1 | num2): %d\n", or_result);
+    printf("Bitwise XOR (num1 ^ num2): %d\n", xor_result);
+
+    return 0;
+}

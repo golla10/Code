@@ -1,0 +1,13 @@
+24) Write a C program to create a specific size and adding the elements later
+
+*Input: Read the array size.
+
+*Create an array: Declare an array of the given size.
+
+*Add elements to the array:
+
+Use a loop to iterate from the first element to the last element of the array.
+
+Read and store each element in the array.
+
+*Output: Display the elements of the array.

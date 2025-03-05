@@ -1,0 +1,19 @@
+ALGORITHM:
+
+2)Create a program that reads an integer from the user, converts it to a float, and prints both the original integer and the converted float.
+
+*Start the program.
+
+*Declare an integer variable.
+
+*Declare a float variable.
+
+*Read an integer value from the user and store it in the integer variable.
+
+*Convert the integer value to a float and store it in the float variable.
+
+*Print the original integer value to the console.
+
+*Print the converted float value to the console.
+
+*End the program.

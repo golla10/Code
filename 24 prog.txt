@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main() {
+    int arr[5] = {10, 20, 30, 40, 50}; 
+
+    
+    printf("Size of the array: %lu bytes\n", sizeof(arr));
+
+    
+    printf("Number of elements in the array: %lu\n", sizeof(arr) / sizeof(arr[0]));
+
+    return 0;
+}

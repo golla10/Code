@@ -1,0 +1,21 @@
+5)Write a C program that takes two integers as input and prints their sum, difference, product, and quotient.
+
+*Start the program.
+
+*Declare two integer variables.
+
+*Declare variables for the sum, difference, product, and quotient.
+
+*Read the values of the two integers from the user.
+
+*Calculate the sum of the two integers and store the result.
+
+*Calculate the difference of the two integers and store the result.
+
+*Calculate the product of the two integers and store the result.
+
+*Calculate the quotient of the two integers and store the result.
+
+*Print the sum, difference, product, and quotient to the console.
+
+*End the program.

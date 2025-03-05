@@ -1,0 +1,11 @@
+21)  Write a C program to access an array element
+
+* Input: Read the array size and the array elements.
+
+* Input: Read the index of the element to be accessed.
+
+* Access the element:
+
+  Use the index to access the specific element in the array.
+
+* Output: Display the accessed element.

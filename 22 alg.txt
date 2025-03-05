@@ -1,0 +1,14 @@
+22)  Write a C program to change the value of a specific element
+
+
+*Input: Read the array size and the array elements.
+
+*Input: Read the index of the element to be changed and the new value.
+
+*Change the element:
+
+Use the index to access the specific element in the array.
+
+Assign the new value to the element at the given index.
+
+*Output: Display the updated array.

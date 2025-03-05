@@ -1,0 +1,20 @@
+9)Write a C program that takes an integer as input and prints whether it is even or odd.
+
+
+
+
+*Start the program.
+
+*Declare an integer variable.
+
+*Read the integer value from the user and store it in the integer variable.
+
+*Check if the integer is divisible by 2:
+
+*If the remainder when divided by 2 is 0, then it is even.
+
+*Else, it is odd.
+
+*Print whether the integer is even or odd.
+
+*End the program.

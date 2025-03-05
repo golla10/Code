@@ -1,0 +1,25 @@
+17) Write a C program to check if a given number is a palindrome or not using arithmetic operators.
+
+
+
+*Input: Read the integer number.
+
+*Initialize variables:
+
+*Set a variable originalNumber to store the original number.
+
+*Set a variable reversedNumber to 0.
+
+Reverse the digits of the number:
+
+Repeat until the number becomes 0:
+
+*Extract the last digit of the number (use the modulus operator %).
+
+*Append the digit to reversedNumber (multiply reversedNumber by 10 and add the digit).
+
+*Remove the last digit from the number (use integer division //).
+
+*Check if the original number is equal to the reversed number.
+
+*Output: If they are equal, the number is a palindrome; otherwise, it is not.

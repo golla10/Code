@@ -1,0 +1,30 @@
+#include <stdio.h>
+
+int main() {
+    int n; 
+    int sum = 0; 
+    float average; 
+
+    
+    printf("Enter the number of people: ");
+    scanf("%d", &n);
+
+   
+    int ages[n];
+
+    
+    printf("Enter the ages:\n");
+    for (int i = 0; i < n; i++) {
+        printf("Age %d: ", i + 1);
+        scanf("%d", &ages[i]);
+        sum += ages[i]; 
+    }
+
+    
+    average = (float)sum / n;
+
+    
+    printf("The average age is: %.2f\n", average);
+
+    return 0;
+}

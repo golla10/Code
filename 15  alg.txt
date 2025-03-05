@@ -1,0 +1,13 @@
+15) Write a C program to check if a given number is positive, negative, or zero using conditional operators.
+
+*Input: Read the integer number.
+
+*Check the number:
+
+*If the number is greater than 0, it is positive.
+
+*If the number is less than 0, it is negative.
+
+*If the number is equal to 0, it is zero.
+
+*Output: Display whether the number is positive, negative, or zero.

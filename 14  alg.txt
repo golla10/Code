@@ -1,0 +1,16 @@
+14) Write a C program to check whether a given number is a power of two or not, using bitwise operators.
+
+
+
+
+*Input: Read the integer number.
+
+*Check if the number is greater than 0.
+
+*Perform bitwise operation:
+
+*If the number is a power of two, it should have exactly one set bit (1) in its binary representation.
+
+*Use the bitwise AND operator to check if number & (number - 1) equals 0.
+
+*Output: If the result is 0, the number is a power of two; otherwise, it is not.

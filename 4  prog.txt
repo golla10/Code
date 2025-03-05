@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main() {
+    unsigned int a, b;
+
+    // Taking input for two unsigned integers
+    printf("Enter two unsigned integers: ");
+    scanf("%u %u", &a, &b);
+
+    // Performing bitwise AND, OR, and XOR operations
+    unsigned int and_result = a & b;
+    unsigned int or_result = a | b;
+    unsigned int xor_result = a ^ b;
+
+    // Printing the results of the bitwise operations
+    printf("Bitwise AND (a & b): %u\n", and_result);
+    printf("Bitwise OR (a | b): %u\n", or_result);
+    printf("Bitwise XOR (a ^ b): %u\n", xor_result);
+
+    return 0;
+}

@@ -1,0 +1,11 @@
+6)Write a C program that takes a character as input and prints its ASCII value.
+
+*Start the program.
+
+*Declare a char variable.
+
+*Read a character value from the user and store it in the char variable.
+
+*Print the ASCII value of the character to the console.
+
+*End

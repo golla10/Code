@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main() {
+    int arr[5] = {10, 20, 30, 40, 50}; 
+    int index;
+
+    
+    printf("Enter an index (0 to 4) to access an array element: ");
+    scanf("%d", &index);
+
+    
+    if (index >= 0 && index < 5) {
+        printf("Element at index %d is: %d\n", index, arr[index]);
+    } else {
+        printf("Invalid index! Please enter a value between 0 and 4.\n");
+    }
+
+    return 0;
+}

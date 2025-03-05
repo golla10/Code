@@ -1,0 +1,12 @@
+7)Write a C program that takes a floating-point number as input and prints it with 2 decimal places.
+
+
+*Start the program.
+
+*Declare a float variable.
+
+*Read a floating-point number from the user and store it in the float variable.
+
+*Print the floating-point number to the console with 2 decimal places.
+
+*End the program.

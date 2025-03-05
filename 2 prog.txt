@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main() {
+    int myInt;
+    
+    
+    printf("Enter an integer: ");
+    scanf("%d", &myInt);
+
+    
+    float myFloat = (float) myInt;
+
+    
+    printf("Original Integer: %d\n", myInt);
+    printf("Converted Float: %.2f\n", myFloat);
+
+    return 0;
+}

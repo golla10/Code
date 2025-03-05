@@ -1,0 +1,11 @@
+23) Write a C program to loop through an array
+ 
+*Input: Read the array size and the array elements.
+
+*Loop through the array:
+
+Use a loop to iterate from the first element to the last element of the array.
+
+Access and process each element during each iteration.
+
+*Output: Display the elements of the array.

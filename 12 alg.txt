@@ -1,0 +1,15 @@
+12) Write a C program to perform bitwise AND, OR, XOR, operations on two given integers.
+
+
+
+*Input: Read two integer numbers, num1 and num2.
+
+*Perform bitwise operations:
+
+Calculate AND_result as num1 & num2.
+
+Calculate OR_result as num1 | num2.
+
+Calculate XOR_result as num1 ^ num2.
+
+*Output: Display the results of the bitwise operations.

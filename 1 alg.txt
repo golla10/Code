@@ -1,0 +1,25 @@
+ALGORITHM:
+
+1)Write a program that declares an int, a float, and a char variable, initializes them with values, and prints them to the console.
+
+*Start the program.
+
+*Declare an integer variable.
+
+*Declare a float variable.
+
+*Declare a char variable.
+
+*Initialize the integer variable with a value.
+
+*Initialize the float variable with a value.
+
+*Initialize the char variable with a value.
+
+*Print the integer variable to the console.
+
+*Print the float variable to the console.
+
+*Print the char variable to the console.
+
+*End the program.
